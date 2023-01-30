@@ -3,13 +3,17 @@ Nicolas Coles
 
 First comment
 
-<<<<<<< HEAD
+
 
 This is a change on newbranch
 
-=======
+
 testbranch change
->>>>>>> main
+
+
+
+newbranch
+ main
 
 
 
@@ -23,4 +27,7 @@ testbranch change
 test
 
 
+
+ 
+ main
 
